@@ -1,2 +1,2 @@
-# Penetration-Testing
-Notes taken for this course
+# EH&CS
+Notes taken
