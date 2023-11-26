@@ -65,12 +65,18 @@ PORT STATE SERVICE REASON VERSION
 ![[Pasted image 20231115225839.png]]
 
 ### Create SSH Tunnel
-#### establishes a local port forwarding (tunneling) from your local machine to a remote server.
+##### Establishes a local port forwarding (tunneling) from your local machine to a remote server
+```bash
 ssh -L 8181:172.17.0.3:22 -fN kasrawy4@45.84.138.178 
+```
 
 ![[Pasted image 20231115234044.png]]
 ![[Pasted image 20231115234100.png]]
 ![[Pasted image 20231115230412.png]]
+```bash
+ssh -L 8181:172.17.0.3:22 -fN kasrawy4@45.84.138.178 
+ssh local port forwarding sourceport:destinationip:destinationport -fN run in background through kasrawy4
+```
 
 ```
 The `ssh -fN` command is used for setting up an SSH tunnel in the background without executing any commands on the remote server. Let's break down the individual options:
@@ -88,7 +94,7 @@ tool where you write the command and it explains you in an easy way the meaning 
 
 ### Display Active Network Connections
 
-```
+```bash
 netstat -tulpn
 ```
 
@@ -138,4 +144,11 @@ SSH_CLIENT
 #### Successful Authentication Using Public Key for SSH Connection to 172.17.0.1
 
 ![[Pasted image 20231118024054.png]]
+
+![[Pasted image 20231118205331.png]]
+
+
+![[Pasted image 20231118205206.png]]
+
+![[Pasted image 20231118205307.png]]
 

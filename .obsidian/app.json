@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./Screen_shots",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 70
+  },
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root"
+}
