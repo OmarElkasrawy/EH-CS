@@ -1,2 +1,2 @@
 Notes taken
-Written in Obsidian
+Written in [Obsidian](https://obsidian.md/)
