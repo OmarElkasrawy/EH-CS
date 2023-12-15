@@ -94,11 +94,6 @@ devices_list = [
     {"ip": "192.168.1.1", "username": "kas1", "password": "kas123"},
     {"ip": "192.168.1.2", "username": "kas1", "password": "kas123"},
     {"ip": "192.168.1.3", "username": "kas1", "password": "kas123"},
-    {"ip": "192.168.1.4", "username": "kas1", "password": "kas123"},
-    {"ip": "192.168.1.5", "username": "kas1", "password": "kas123"},
-    {"ip": "192.168.1.6", "username": "kas1", "password": "kas123"},
-    {"ip": "192.168.1.7", "username": "kas1", "password": "kas123"},
-    {"ip": "192.168.1.8", "username": "kas1", "password": "kas123"},
 ]
 
 switch_username = "kas1"

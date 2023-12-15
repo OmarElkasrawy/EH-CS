@@ -8,16 +8,32 @@ I tried to update my topology but it overlaps
 
 ![](https://i.imgur.com/4jlkRd3.png)
 
+# Network Topology V3
+Final topology
+
+![](https://i.imgur.com/NxsmKqF.png)
+
+![](https://i.imgur.com/NXGpeZa.png)
+
+![](https://i.imgur.com/AdQj91e.png)
+
+
+
+
 
 ## Set up network
 
 
 ![](https://i.imgur.com/N3RwUzt.png)
 
+
 ### Testing Connectivity
 
 
 ![](https://i.imgur.com/drGblqd.png)
+
+![](https://i.imgur.com/vG3f8LH.png)
+
 
 
 # Security Concerns
@@ -98,6 +114,24 @@ OSPF (Open Shortest Path First) enables a dynamic routing protocol that allows r
 ![](https://i.imgur.com/jUx0Etn.png)
 
 ![](https://i.imgur.com/V5HmKcO.png)
+
+![](https://i.imgur.com/iDT5KY6.png)
+
+![](https://i.imgur.com/Srb0HO9.png)
+
+final ospf working
+
+![](https://i.imgur.com/KDcz1sz.png)
+
+![](https://i.imgur.com/1ZSWO5U.png)
+
+#### Securing failed
+
+
+![](https://i.imgur.com/06kjYjP.png)
+
+![](https://i.imgur.com/1TGNzIm.png)
+
 
 
 ## Additional Security Measurements Considering CIA

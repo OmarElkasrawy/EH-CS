@@ -73,7 +73,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.3",
     "libraryItems": [
       {
         "id": "YsEn2hiTyqdddtN3HJpIh",
@@ -99,10 +99,11 @@
             "height": 114,
             "seed": 770101279,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1673009383706,
-            "link": "",
+            "link": null,
             "locked": false
           },
           {
@@ -125,6 +126,7 @@
             "height": 23,
             "seed": 1123994111,
             "groupIds": [],
+            "frameId": null,
             "roundness": null,
             "boundElements": [],
             "updated": 1673009383706,
@@ -134,11 +136,12 @@
             "fontFamily": 1,
             "text": "📍[[s]]",
             "rawText": "[[PNPT/AD/Attacking AD/s|s]]",
-            "baseline": 17,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "📍[[s]]"
+            "originalText": "📍[[s]]",
+            "lineHeight": 1.4375,
+            "baseline": 15
           }
         ],
         "created": 1673009386317

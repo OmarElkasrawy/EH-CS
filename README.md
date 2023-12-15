@@ -1,2 +1,0 @@
-# EH&CS
-Notes taken
